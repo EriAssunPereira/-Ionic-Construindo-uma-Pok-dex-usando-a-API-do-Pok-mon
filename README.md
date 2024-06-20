@@ -1,6 +1,6 @@
 # Ionic-Construindo-uma-Pokédex-usando-a-API-do-Pokémon
 
-Para construir uma Pokédex utilizando Ionic, podemos seguir alguns passos básicos e utilizar os recursos do framework para criar uma aplicação funcional e visualmente atraente. Abaixo, vou dar exemplos de como você pode estruturar e implementar alguns módulos essenciais para esse projeto.
+Para construir uma Pokédex utilizando Ionic, podemos seguir alguns passos básicos e utilizar os recursos do framework para criar uma aplicação funcional e visualmente atraente. Abaixo, vou dar exemplos de como poderemos estruturar e implementar alguns módulos essenciais para esse projeto.
 
 ### Estrutura do Projeto Ionic
 
